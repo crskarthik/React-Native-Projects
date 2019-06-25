@@ -26,13 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
-      "package": "com.karthik.firstProject",
-      "config": {
-        "googleMaps": {
-          "apiKey": "AIzaSyBiiPZO2LDHNt7h01mReh16NjTYsb3YBGQ"
-        }
-      }
-    }
+    "description": "This app contains Map view, Icons with react native components",
+    "githubUrl": "https://github.com/crskarthik/React-Native-Projects/tree/master/MyFirstSampleProject"
   }
 }

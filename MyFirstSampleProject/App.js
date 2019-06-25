@@ -8,7 +8,9 @@ class Home extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Home screen!</Text>
+        <Text>Welcome!</Text>
+        <Text>This Application is developed by Karthik!</Text>
+        <Text>Feel free to open Maps tab below ;-)</Text>
         </View>
     );
   }
